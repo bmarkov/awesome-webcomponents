@@ -181,6 +181,10 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Built with Polymer](http://builtwithpolymer.org/).
 * [Awesome Polymer](https://github.com/Granze/awesome-polymer) by Maurizio Mangione. :guitar:
 
+### SmartJS
+
+* [Smart HTML Elements](https://www.htmlelements.com).
+
 ### Bosonic
 
 * [Bosonic Site](http://bosonic.github.io/).
